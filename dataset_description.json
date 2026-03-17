@@ -1,0 +1,20 @@
+{
+    "Name": "Dataset for \"Coregistration of heading to visual cues in retrosplenial cortex\"",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "These are all the accompanying data for the following publication:\nSit, K.K., Goard, M.J. Coregistration of heading to visual cues in retrosplenial cortex. Nat Commun 14, 1992 (2023). https://doi.org/10.1038/s41467-023-37704-5",
+    "DatasetType": "raw",
+    "Authors": [
+        "Sit, Kevin",
+        "Goard, Michael"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
